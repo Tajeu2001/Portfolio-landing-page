@@ -8,14 +8,14 @@ Portfolio Landing Page
 This project is a landing page for my portfolio.It contains my name and image, a list of other projects i've been able to do,their descriptions and live links to them.The project also contains personal information about me including my background,interests,skills and hobbies.
 
 ## Program Setup Installation
-*Install git in your computer
-*Open termimal
-*Clone the repository using the command $git clone
-*You will now have the repository in your local folder
+Install git in your computer
+Open termimal
+Clone the repository using the command $git clone
+You will now have the repository in your local folder
  
 ## Technologies used
-*HTML
-*CSS
+HTML
+CSS
 ## Link to live site
 
 ## Contact details
