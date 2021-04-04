@@ -41,6 +41,7 @@ img {
   background-color: #00539CFF;
   padding-left: 30px;
   color:#FFD662FF;
+  border-radius: 70px;
 }
 
 .projects {
@@ -51,10 +52,12 @@ img {
   color: #00539CFF;
   padding-left: 30px;
   background-color: #FFD662FF;
+  border-radius: 70px;;
 }
 
-.aboutme>h2 .projects>h2 {
-
+.aboutme>h2 ,.projects>h2 {
+  color: #FC5185;
+  text-decoration-line: underline;
 }
 
 
