@@ -17,7 +17,7 @@ You will now have the repository in your local folder
 HTML
 CSS
 ## Link to live site
-
+https://tajeu2001.github.io/Portfolio-landing-page/
 ## Contact details
 Email: tajeusanta7@gmail.com
 ### License
