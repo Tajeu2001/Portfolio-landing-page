@@ -1,9 +1,9 @@
 body {
-   background-color: rgb(224, 235, 125);
+   background-color: rgb(201, 243, 248);
 }
 
 .heading {
-  background-color: rgb(158, 148, 7);
+  background-color: rgb(148, 36, 129);
   text-align: center;
   border-radius:40px;
 
@@ -37,8 +37,9 @@ img {
   width: 47%;
   margin-top: 120px;
   font-size: 130%;
-  background-color: rgb(174, 190, 21);
+  background-color: #00539CFF;
   padding-left: 30px;
+  color:#FFD662FF;
 }
 
 .projects {
@@ -46,8 +47,9 @@ img {
   width:47%;
   float:right;
   font-size:130%;
-  background-color: rgb(176, 179, 24);
+  background-color: #00539CFF;
   padding-left: 30px;
+  color:
 }
 
 .aboutme, h2 .projects
