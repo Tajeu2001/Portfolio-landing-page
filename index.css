@@ -1,5 +1,5 @@
 body {
-
+   background-color: rgb(202, 232, 233);
 }
 
 .heading {
@@ -9,13 +9,13 @@ body {
 
 }
 
-h1 {
+.heading h1 {
   font-size: 40px;
   margin-bottom: 0px;
 
 }
 
-h3 {
+.heading h3 {
   font-size: 20px;
   padding: 10px;
   margin-top: 15px;
@@ -27,9 +27,14 @@ img {
   border:2px;
   padding:5px;
   box-shadow: 0 0 10px 5px grey;
-  margin-left: 100px;
+  margin-left: 200px;
   transform: rotate(340deg);
 
+}
+
+#aboutme {
+  margin-top: 120px;
+  font-size: 50px;
 }
 
 
