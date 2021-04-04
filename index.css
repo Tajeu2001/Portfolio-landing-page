@@ -1,11 +1,12 @@
 body {
-   background-color: rgb(201, 243, 248);
+   background-color: rgb(246, 251, 252);
 }
 
 .heading {
-  background-color: rgb(148, 36, 129);
+  background-color: #00539CFF;
   text-align: center;
   border-radius:40px;
+  color: #FFD662FF;
 
 }
 
@@ -47,12 +48,14 @@ img {
   width:47%;
   float:right;
   font-size:130%;
-  background-color: #00539CFF;
+  color: #00539CFF;
   padding-left: 30px;
-  color:
+  background-color: #FFD662FF;
 }
 
-.aboutme, h2 .projects
+.aboutme>h2 .projects>h2 {
+
+}
 
 
 
